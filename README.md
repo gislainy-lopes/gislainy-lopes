@@ -1,4 +1,4 @@
-## Olá! Eu sou a Gislainy Lopes
+## Olá! Eu sou a Gislainy Lopes <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <div>
   <a href="https://beacons.ai/rafaballerini">
