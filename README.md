@@ -10,7 +10,7 @@
 <br>
 <div align="center" width="100%">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=800080&width=900&size=22&center=true&lines=Bem+vindos!;Sou+estudante+de+Informatica." 
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=800080&width=900&size=22&center=true&lines=Bem-vindos!;Sou+estudante+de+Informatica." 
     alt="Typing SVG"
   />
 </div>
