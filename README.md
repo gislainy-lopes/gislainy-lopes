@@ -1,20 +1,34 @@
-## Olá! Eu sou a Gislainy Lopes <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
-<div>
-  <a href="https://beacons.ai/rafaballerini">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gislainy-lopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gislainy-lopes&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=800080"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</div>
+<div align="center">
+  <samp>
+      Olá! Eu sou a <b>Gislainy Lopes</b>
+  </samp>
+</div>
+<br>
+<div align="center" width="100%">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=800080&width=900&size=22&center=true&lines=Bem+vindos!;Sou+estudante+de+Informatica." 
+    alt="Typing SVG"
+  />
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center">
+    <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=gislainy-lopes&show_icons=true&count_private=true&rank_icon=github&theme=dracula&font=Iosevka"/>
+    <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gislainy-lopes&layout=compact&font=Iosevka&langs_count=16&theme=dracula"/>  
+</div>
+
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Gislainy-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Gislainy-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gislainy-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 </div>
 
-<div> 
-  <h1></h1>
+<div align="center"> 
+  <br>
   <a href="https://instagram.com/gislainylopess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
 
