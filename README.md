@@ -4,7 +4,7 @@
 </div>
 <div align="center">
   <samp>
-      Olá! Eu sou a <b>Gislainy Lopes</b>
+     Olá! Eu sou a <b>Gislainy Lopes</b>
   </samp>
 </div>
 <br>
@@ -14,10 +14,12 @@
     alt="Typing SVG"
   />
 </div>
-
+<br>
 <div align="center">
-    <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=gislainy-lopes&show_icons=true&count_private=true&rank_icon=github&theme=dracula&font=Iosevka"/>
-    <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gislainy-lopes&layout=compact&font=Iosevka&langs_count=16&theme=dracula"/>  
+   <img height="180" alt="GitHub Stats"
+       src="https://github-readme-stats.vercel.app/api/?username=gislainy-lopes&show_icons=true&count_private=true&rank_icon=github&font=Iosevka&bg_color=2e003e&text_color=d6b0ff&icon_color=9a4dff&title_color=b388ff&border_color=5a00a3" />
+   <img height="180" alt="Top Language"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gislainy-lopes&layout=compact&font=Iosevka&langs_count=16&bg_color=2e003e&text_color=d6b0ff&title_color=b388ff&border_color=5a00a3" />
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -28,7 +30,7 @@
 
 <div align="center"> 
   <br>
-  <a href="https://instagram.com/gislainylopess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/gislainylopess" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-800080?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 </div>
-
-
